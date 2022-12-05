@@ -1,5 +1,6 @@
+// declared all the variables
+
 const character = document.getElementById('displayed-names');
-// const container = document.getElementById("detailed-info");
 const animalName = document.getElementById('name');
 const image = document.getElementById('image');
 const form = document.getElementById('votes-form');
@@ -47,7 +48,6 @@ form.addEventListener('submit', (e) => {
   showAnimal(currentAnimal);
   form.reset();
 });
-
 resetVotes.addEventListener('click', () => {
   currentAnimal.votes = 0;
   showAnimal(currentAnimal);
