@@ -2,7 +2,7 @@
 ## Author
 By Terry Wachuka
 ## Description
-Users are able to see to see a list of animals displayed in the Dom. When the animals are clicked, their details are rendered. This includes the animal name and image. Also, submit the form by adding the number of votes from the input field for each animal and you can reset the form as well. You can can add as many votes you want and get the total votes displayed.
+Users are able to see to see a list of animals displayed in the Dom. When the animals are clicked, their details are rendered. This includes the animal name and image. Also, submit the form by adding the number of votes from the input field for each animal and you can reset the votes as well. You can can add as many votes you want and get the total votes displayed.
 ## Setup and Installation Requirements
 To run this program:
 - $ Fork the repository from my git hub.
