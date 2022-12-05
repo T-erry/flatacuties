@@ -3,7 +3,10 @@
   html, body {
     margin: 0;
     padding: 0;
-   background:  rgb(49, 179, 64);
+   background-image: url(/images/jacob-dyer-xz_M5fBenBw-unsplash.jpg);
+   background-repeat: no-repeat;
+   background-position: right top;
+   background-attachment: scroll;
    font-family: Arial, Helvetica, sans-serif;
    color: #fff;
   }
@@ -17,7 +20,6 @@
   
   #displayed-names {
     height: 10vh;
-    /* background: rgb(49, 179, 64); */
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -51,7 +53,7 @@
   }
   
    input[type="submit"], button {
-    background-color: rgb(77, 49, 179);
+    background-color: rgb(49, 179, 64);
     color: white;
     font-size: 18px;
     border-radius: 10px;
